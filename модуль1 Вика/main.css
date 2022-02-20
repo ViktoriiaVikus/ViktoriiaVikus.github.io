@@ -1,0 +1,56 @@
+div	{
+	width:60% ;
+	margin:auto ;
+	
+	padding:20px;
+	background-color:#FFFC9A;
+	border: dashed;
+	box-shadow: 0 0 50px 8px rgba(184, 134, 11) ;
+}
+
+p{
+	color:#221E32 ;
+	font-size:160% ;
+	font-style:oblique;
+	margin:3%;
+	text-align: left;
+	box-sizing: border-box;
+
+
+}
+
+img	{
+	margin: 2%;
+
+}
+
+li{
+	font-size:150% ;
+	font-weight:bold ;
+}
+h2	{
+	text-align: left;
+	margin: 4%;
+	font-size: 30PX;
+
+
+
+
+}
+h1	{
+	text-align: left;
+	font-size:270% ;
+	margin: 4%;
+	
+
+}
+a {
+
+	color: ;
+	font-size: 25px;
+	display: ;
+	border-bottom: ;
+	margin: 6%;
+
+
+}

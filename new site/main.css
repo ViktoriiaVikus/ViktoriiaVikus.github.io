@@ -1,0 +1,54 @@
+h1	{
+	font-size:50px ;
+	font-weight: 600px;
+	font-style: italic;
+	align-content: left;
+	margin: 3%;
+
+	}
+	h2	{
+	font-size:45px ;
+	font-weight: 30px;
+	font-style: italic;
+	align-content: left;
+	margin: 3%;
+
+	}
+	
+
+div	{
+	width:70% ;
+	margin:10%;
+	border: dashed;
+	padding:50px;
+	background-color:#FFFC9A;
+	
+}
+
+p{
+	color:#221E32 ;
+	font-size:170% ;
+	font-style:oblique;
+ 	
+	margin:3%;
+	box-sizing: border-box;
+
+
+}
+
+
+li{
+	font-size:150% ;
+	font-weight:bold ;
+	text-align: left;
+	margin: 1%;
+	}
+	img{
+		
+		margin: 30px ;
+	}
+	a {
+		margin: 3%;
+		font-weight: bold;
+		font-size:20px;
+	}
